@@ -13,6 +13,7 @@ In the case of Little Endian in contrast, the byte with the bits of the lowest v
 Since it is occasionally necessary to convert the one format to the other (especially in network programming) the commonly used programming languages include special functions for that. "C" for example offers the functions "htonl()" and "ntohl", Perl uses "pack" and "unpack" with the "N" parameter. The network byte order must be given in binary.
 
 ## About the examples
-The branch contains several examples for different programming lanuguages to either send requests or receive responses from the RRI server. The java utility class **TcpProtocolFramingHandler.java** is needed to run the java example
+The branch contains several examples for different programming lanuguages to either send requests or receive responses from the RRI server. The java utility class **TcpProtocolFramingHandler.java** is needed to run the java example.
+
 ---
 (c) DENIC eG 2022
