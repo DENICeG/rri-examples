@@ -1,4 +1,4 @@
-# RRI examples for network byte order
+# RRI examples for the network byte order
 
 ## Introduction
 In computing, byte order or endianness is the way simple numeral values are stored. It names in particular the storing order of integers in the main memory. The applicable storage format must be defined if the number of bits required to encode the numeral to be stored is larger than the number of bits available in the smallest addressable unit. Normally, the smallest addressable unit is one byte. If more than one byte is needed for storing, the numeral is then stored in several bytes with the memory addresses stated in immediate sequence. Whilst cross-producer standards have been established with many other types of storage organization, two variants persist for byte order.
